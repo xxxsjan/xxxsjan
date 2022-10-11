@@ -14,13 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <!-- 在 README 文件中添加下面的代码，可以得到关于仓库 Star 、提交、贡献等统计信息：
      拼接&show_icons=true&theme=radical 控制ison 主题
      https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 -->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxsjan)
 
-![](https://img.shields.io/badge/python-3.9-orange)
+### GitHub status
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxsjan)
+![](https://activity-graph.herokuapp.com/graph?username=xxxsjan&theme=github)
+![](https://github-readme-stats.vercel.app/api?username=xxxsjan&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongding&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
+
+
+<!-- ![](https://img.shields.io/badge/python-3.9-orange) -->
 
 <!-- <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
@@ -67,12 +75,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
 
 <!-- ======================================= -->
-### GitHub status
-
-![](https://activity-graph.herokuapp.com/graph?username=xxxsjan&theme=github)
-| ![](https://github-readme-stats.vercel.app/api?username=xxxsjan&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongding&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
-
 
 <!-- ##### Good projects and good tools  -->
 <!-- - [frontend-park](https://github.com/wangrongding/frontend-park)：一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。  [![](https://img.shields.io/github/stars/wangrongding/frontend-park)](https://github.com/wangrongding/frontend-park)  -->
