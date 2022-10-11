@@ -79,6 +79,6 @@ Here are some ideas to get you started:
 
 ### Good projects and good tools 
 -[web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):笔记。 
-[![](https://img.shields.io/github/stars/xxxsjan/web-note-vitepress)](https://github.com/xxxsjan/web-note-vitepress) 
+ [![](https://img.shields.io/github/stars/xxxsjan/web-note-vitepress)](https://github.com/xxxsjan/web-note-vitepress) 
 
 
