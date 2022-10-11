@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ### GitHub status
 
 ![](https://activity-graph.herokuapp.com/graph?username=xxxsjan&theme=github)
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxsjan)
+<!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxsjan) -->
 ![](https://github-readme-stats.vercel.app/api?username=xxxsjan&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wangrongding&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
 
