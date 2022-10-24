@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 </h3> -->
 
 <!-- 访问量 -->
-<!-- <a href="https://github.com/xxxsjan">
+<a href="https://github.com/xxxsjan">
   <div align="right" >
     <img align="right" src="https://count.getloli.com/get/@:xxxsjan" alt="xxxsjan" />
   </div>
-</a> -->
+</a>
 
 <!-- ======================================= -->
 
