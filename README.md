@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white) 
 ![](https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
 
-[![](https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff)](https://gist.github.com/xxxsjan) 
+[![访问量](https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff)](https://gist.github.com/xxxsjan) 
 
 <!-- ======================================= -->
 ### GitHub status
