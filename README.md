@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 <!-- ======================================= -->
 ### GitHub status
 
-![](https://activity-graph.herokuapp.com/graph?username=xxxsjan&theme=github)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=xxxsjan&theme=github) -->
 <!-- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxsjan) -->
 ![](https://github-readme-stats.vercel.app/api?username=xxxsjan&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) 
+<!-- ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)  -->
 
 ### Good projects and good tools 
 -[web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):笔记。 
