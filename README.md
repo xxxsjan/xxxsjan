@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <!-- ![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)  -->
 
 ### Good projects and good tools 
--[web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):笔记。 
+-[web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):vitepress文档模板
  [![](https://img.shields.io/github/stars/xxxsjan/web-note-vitepress)](https://github.com/xxxsjan/web-note-vitepress) 
 
 
