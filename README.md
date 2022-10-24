@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸.++%F0%9F%91%8B)
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸.++%F0%9F%91%8B) -->
 
 <!-- ======================================= -->
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white) 
 ![](https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
 
-[![访问量](https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff)](https://gist.github.com/xxxsjan) 
+<!-- [![](https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff)](https://gist.github.com/xxxsjan)  -->
 
 <!-- ======================================= -->
 ### GitHub status
