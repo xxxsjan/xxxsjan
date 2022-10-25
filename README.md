@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸.++%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸++++++%F0%9F%91%8B💥)
 
 <!-- ======================================= -->
 
