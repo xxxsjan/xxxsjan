@@ -58,15 +58,15 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron&logoColor=white&color=47848F) 
 ![](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js) 
 ![](https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160) 
-![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) 
-![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
-![](https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=Tampermonkey&labelColor=black&color=00485B) 
-![](https://img.shields.io/badge/-KaliLinux-white?style=flat-square&logo=KaliLinux&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1) 
-![](https://img.shields.io/badge/-CodePen-white?style=flat-square&logo=CodePen&logoColor=white&color=000) 
-![](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&labelColor=D24939&color=white&logoColor=white) 
+<!-- ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)  -->
+<!-- ![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  -->
+<!-- ![](https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=Tampermonkey&labelColor=black&color=00485B)  -->
+<!-- ![](https://img.shields.io/badge/-KaliLinux-white?style=flat-square&logo=KaliLinux&logoColor=white&color=blue)  -->
+<!-- ![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1)  -->
+<!-- ![](https://img.shields.io/badge/-CodePen-white?style=flat-square&logo=CodePen&logoColor=white&color=000)  -->
+<!-- ![](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&labelColor=D24939&color=white&logoColor=white)  -->
 ![](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white) 
-![](https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
+<!-- ![](https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white) -->
 
 <!-- [![](https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff)](https://gist.github.com/xxxsjan)  -->
 
