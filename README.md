@@ -82,7 +82,9 @@ Here are some ideas to get you started:
 
 [web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):vitepress文档模板  [![](https://img.shields.io/github/stars/xxxsjan/web-note-vitepress)](https://github.com/xxxsjan/web-note-vitepress) 
 
-[web-note](https://github.com/xxxsjan/web-note):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/web-note)](https://github.com/xxxsjan/web-note) 
+[web-note](https://github.com/xxxsjan/web-note):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/web-note)](https://github.com/xxxsjan/web-note)
+
+[translate-ultra](https://github.com/xxxsjan/translate-ultra):谷歌插件-翻译小工具 [![](https://img.shields.io/github/stars/xxxsjan/translate-ultra)](https://github.com/xxxsjan/translate-ultra) 
 
 
 
