@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ### Good projects and good tools 
 
-[web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):vitepress文档模板  [![](https://img.shields.io/github/stars/xxxsjan/web-note-vitepress)](https://github.com/xxxsjan/web-note-vitepress) 
+[web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):vitepress 博客  [![](https://img.shields.io/github/stars/xxxsjan/web-note-vitepress)](https://github.com/xxxsjan/web-note-vitepress) 
 
 [web-note](https://github.com/xxxsjan/web-note):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/web-note)](https://github.com/xxxsjan/web-note)
 
