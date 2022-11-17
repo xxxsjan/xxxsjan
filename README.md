@@ -80,9 +80,9 @@ Here are some ideas to get you started:
 
 ### Good projects and good tools 
 
-[web-note-vitepress](https://github.com/xxxsjan/web-note-vitepress):vitepress 博客  [![](https://img.shields.io/github/stars/xxxsjan/web-note-vitepress)](https://github.com/xxxsjan/web-note-vitepress) 
+[blog-vitepress](https://github.com/xxxsjan/blog-vitepress):vitepress 博客  [![](https://img.shields.io/github/stars/xxxsjan/blog-vitepress)](https://github.com/xxxsjan/blog-vitepress) 
 
-[web-note](https://github.com/xxxsjan/web-note):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/web-note)](https://github.com/xxxsjan/web-note)
+[blog-vuepress](https://github.com/xxxsjan/blog-vuepress):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/blog-vuepress)](https://github.com/xxxsjan/blog-vuepress)
 
 [translate-ultra](https://github.com/xxxsjan/translate-ultra):谷歌插件-翻译小工具 [![](https://img.shields.io/github/stars/xxxsjan/translate-ultra)](https://github.com/xxxsjan/translate-ultra) 
 
