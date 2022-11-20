@@ -80,6 +80,8 @@ Here are some ideas to get you started:
 
 ### Good projects and good tools 
 
+[code-snippet-generator](https://github.com/xxxsjan/code-snippet-generator): vscode 用户代码片段生成工具   [![](https://img.shields.io/github/stars/xxxsjan/code-snippet-generator)](https://github.com/xxxsjan/code-snippet-generator) 
+
 [blog-vitepress](https://github.com/xxxsjan/blog-vitepress):vitepress 博客  [![](https://img.shields.io/github/stars/xxxsjan/blog-vitepress)](https://github.com/xxxsjan/blog-vitepress) 
 
 [blog-vuepress](https://github.com/xxxsjan/blog-vuepress):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/blog-vuepress)](https://github.com/xxxsjan/blog-vuepress)
