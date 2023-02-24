@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 [blog-vuepress](https://github.com/xxxsjan/blog-vuepress):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/blog-vuepress)](https://github.com/xxxsjan/blog-vuepress)
 
-[translate-ultra](https://github.com/xxxsjan/translate-ultra):谷歌插件-翻译小工具 [![](https://img.shields.io/github/stars/xxxsjan/translate-ultra)](https://github.com/xxxsjan/translate-ultra) 
+[browser-translate-extension](https://github.com/xxxsjan/browser-translate-extension):浏览器插件-翻译 [![](https://img.shields.io/github/stars/xxxsjan/browser-translate-extension)](https://github.com/xxxsjan/browser-translate-extension) 
 
 
 
