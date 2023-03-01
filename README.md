@@ -1,6 +1,6 @@
 # Hello 👋
 你好
-- 😄 : ![我的简书](https://www.jianshu.com/u/2b406a3be47b)
+- 😄 : [简书](https://www.jianshu.com/u/2b406a3be47b)
 <!--
 **xxxsjan/xxxsjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
