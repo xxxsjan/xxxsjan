@@ -45,3 +45,5 @@
 
 [threejs-home](https://github.com/xxxsjan/threejs-home):threejs相关展示 [![](https://img.shields.io/github/stars/xxxsjan/threejs-home)](https://github.com/xxxsjan/threejs-home) 
 
+[standard-app](https://github.com/xxxsjan/standard-app):搭建husky eslint prettier commitlint commitizen 规范项目教程 [![](https://img.shields.io/github/stars/xxxsjan/standard-app)](https://github.com/xxxsjan/standard-app) 
+
