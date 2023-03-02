@@ -1,6 +1,6 @@
 # Hello 👋
 你好
-- 😄 : [简书](https://www.jianshu.com/u/2b406a3be47b)
+- 📖 : [简书](https://www.jianshu.com/u/2b406a3be47b)
 
 <!-- 访问量 -->
 <a href="https://github.com/xxxsjan">
