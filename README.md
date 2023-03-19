@@ -37,6 +37,8 @@
 
 [code-snippet-generator](https://github.com/xxxsjan/code-snippet-generator): 代码格式转换工具   [![](https://img.shields.io/github/stars/xxxsjan/code-snippet-generator)](https://github.com/xxxsjan/code-snippet-generator)  [在线地址](https://code-snippet-generator.vercel.app/)
 
+[douyin-danmu](https://github.com/xxxsjan/douyin-danmu):抖音弹幕抓取，基于nodejs+puppeteer  [![](https://img.shields.io/github/stars/xxxsjan/douyin-danmu)](https://github.com/xxxsjan/douyin-danmu) 
+
 [blog-vitepress](https://github.com/xxxsjan/blog-vitepress):vitepress 博客  [![](https://img.shields.io/github/stars/xxxsjan/blog-vitepress)](https://github.com/xxxsjan/blog-vitepress) 
 
 [blog-vuepress](https://github.com/xxxsjan/blog-vuepress):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/blog-vuepress)](https://github.com/xxxsjan/blog-vuepress)
