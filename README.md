@@ -43,7 +43,7 @@
 
 [blog-vuepress](https://github.com/xxxsjan/blog-vuepress):vuepress+reco博客 [![](https://img.shields.io/github/stars/xxxsjan/blog-vuepress)](https://github.com/xxxsjan/blog-vuepress)
 
-[browser-translate-extension](https://github.com/xxxsjan/browser-translate-extension):浏览器插件-翻译 [![](https://img.shields.io/github/stars/xxxsjan/browser-translate-extension)](https://github.com/xxxsjan/browser-translate-extension) 
+[ultra-extension](https://github.com/xxxsjan/ultra-extension):谷歌插件-含翻译功能，技术栈：plasmo+react+tailwindCss [![](https://img.shields.io/github/stars/xxxsjan/ultra-extension)](https://github.com/xxxsjan/ultra-extension) 
 
 [threejs-home](https://github.com/xxxsjan/threejs-home):threejs相关展示 [![](https://img.shields.io/github/stars/xxxsjan/threejs-home)](https://github.com/xxxsjan/threejs-home) 
 
