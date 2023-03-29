@@ -28,10 +28,12 @@
 
 ### GitHub status
 
-![](https://activity-graph.herokuapp.com/graph?username=xxxsjan&theme=github)
-
-![](https://github-readme-stats.vercel.app/api?username=xxxsjan&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=xxxsjan&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs)  -->
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=xxxsjan&theme=github) -->
+<!-- | ![](https://github-readme-stats.vercel.app/api?username=xxxsjan&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230) |
+| ---- | ---- |  -->
+| <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xxxsjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /> | <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> |
+| ---- | ---- |
 
 ### 一些项目
 
