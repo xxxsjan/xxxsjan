@@ -37,13 +37,15 @@
 
 ### 一些项目
 
-[web-tool](https://github.com/xxxsjan/web-tool): 代码格式转换工具   [![](https://img.shields.io/github/stars/xxxsjan/web-tool)](https://github.com/xxxsjan/web-tool)  
+[web-tool](https://github.com/xxxsjan/web-tool): web工具箱网站   [![](https://img.shields.io/github/stars/xxxsjan/web-tool)](https://github.com/xxxsjan/web-tool)  
 - [在线地址](https://web-tool.dolam.top)
 - 自定义生成vscode的用户代码片段
 - css style → 对象
 - 模板字符串 → 普通字符串
 - esm → commonjs
 - less → css
+- 图片去黑边
+- 依赖包转命令
 
 
 [douyin-danmu](https://github.com/xxxsjan/douyin-danmu):抖音弹幕抓取，基于nodejs+puppeteer  [![](https://img.shields.io/github/stars/xxxsjan/douyin-danmu)](https://github.com/xxxsjan/douyin-danmu) 
