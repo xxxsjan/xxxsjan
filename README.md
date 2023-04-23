@@ -2,7 +2,6 @@
 你好
 - 🐱 : [简书](https://www.jianshu.com/u/2b406a3be47b)
 - 👻 : [个人前端文档](https://dolam.top/)
-- 🐻‍❄️ ：[npm](https://www.npmjs.com/~xsjan)
 
 <!-- 访问量 -->
 <a href="https://github.com/xxxsjan">
