@@ -1,7 +1,7 @@
 # Hello 👋
 你好，我是一名前端开发，一起来搞技术吧！
-- 🐱 : [简书](https://www.jianshu.com/u/2b406a3be47b)
-- 👻 : [个人前端文档](https://dolam.top/)
+- 🐱 : [简书](https://www.jianshu.com/u/2b406a3be47b) --琐碎的记录
+- 👻 : [个人文档库](https://dolam.top/) --笔记记录
 
 <!-- 访问量 -->
 <a href="https://github.com/xxxsjan">
