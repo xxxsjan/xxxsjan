@@ -48,7 +48,7 @@
 
 [vue-source-code-comment](https://github.com/xxxsjan/vue-source-code-comment):vue2源码阅读-注释 [![](https://img.shields.io/github/stars/xxxsjan/vue-source-code-comment)](https://github.com/xxxsjan/vue-source-code-comment)
 
-[vue-ip-address-inpu](https://www.npmjs.com/package/vue-ip-address-input)t： [![](https://img.shields.io/npm/dt/dev-boy?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vue-ip-address-input)
+[vue-ip-address-inpu](https://www.npmjs.com/package/vue-ip-address-input)t： [![](https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vue-ip-address-input)
 
 [py-ncm-to-mp3](https://github.com/xxxsjan/py-ncm-to-mp3) :网易云ncm转mp3（python脚本）
 [![](https://img.shields.io/github/stars/xxxsjan/py-ncm-to-mp3)](https://github.com/xxxsjan/py-ncm-to-mp3) 
