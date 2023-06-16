@@ -47,6 +47,9 @@
 
 ### 一些项目
 
+[taro-fresh-rabbit](https://github.com/xxxsjan/taro-fresh-rabbit):小兔鲜多端开发之taro版 [![](https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit)](https://github.com/xxxsjan/taro-fresh-rabbit) 
+
+
 [web-tool](https://github.com/xxxsjan/web-tool): web工具箱网站   [![](https://img.shields.io/github/stars/xxxsjan/web-tool)](https://github.com/xxxsjan/web-tool)  [在线地址](https://web-tool.dolam.top)
 
 
