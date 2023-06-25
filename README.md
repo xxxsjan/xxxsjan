@@ -57,6 +57,6 @@
 |[cli-tool](https://github.com/xxxsjan/cli-tool)|命令行小工具(删除node_modules 获取ip信息，获取目录结构、获取时间、获取系统信息等)|[![](https://img.shields.io/github/stars/xxxsjan/cli-tool)](https://github.com/xxxsjan/cli-tool) |
 |[douyin-danmu](https://github.com/xxxsjan/douyin-danmu)|抖音弹幕抓取，基于nodejs+puppeteer|[![](https://img.shields.io/github/stars/xxxsjan/douyin-danmu)](https://github.com/xxxsjan/douyin-danmu) |
 |[ultra-extension](https://github.com/xxxsjan/ultra-extension)|谷歌插件-含翻译功能，技术栈：plasmo+react+tailwindCss |[![](https://img.shields.io/github/stars/xxxsjan/ultra-extension)](https://github.com/xxxsjan/ultra-extension) |
-|[threejs-home](https://github.com/xxxsjan/threejs-home)|threejs相关展示 |[![](https://img.shields.io/github/stars/xxxsjan/threejs-home)](https://github.com/xxxsjan/threejs-home) |
-|[standard-app](https://github.com/xxxsjan/standard-app)|搭建husky eslint prettier commitlint commitizen 规范项目教程 |[![](https://img.shields.io/github/stars/xxxsjan/standard-app)](https://github.com/xxxsjan/standard-app) |
+|[threejs-home](https://github.com/xxxsjan/threejs-home)|threejs |[![](https://img.shields.io/github/stars/xxxsjan/threejs-home)](https://github.com/xxxsjan/threejs-home) |
+
 
