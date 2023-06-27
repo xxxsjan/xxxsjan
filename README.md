@@ -54,7 +54,7 @@
 |[vue-source-code-comment](https://github.com/xxxsjan/vue-source-code-comment)|vue2源码阅读-注释| [![](https://img.shields.io/github/stars/xxxsjan/vue-source-code-comment)](https://github.com/xxxsjan/vue-source-code-comment)|
 |[vue-ip-address-input](https://www.npmjs.com/package/vue-ip-address-input)| ip地址输入框组件 |[![](https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vue-ip-address-input) |
 |[py-ncm-to-mp3](https://github.com/xxxsjan/py-ncm-to-mp3) |网易云ncm转mp3（python脚本）| [![](https://img.shields.io/github/stars/xxxsjan/py-ncm-to-mp3)](https://github.com/xxxsjan/py-ncm-to-mp3) |
-|[cli-tool](https://github.com/xxxsjan/cli-tool)|命令行小工具(删除node_modules 获取ip信息，获取目录结构、获取时间、获取系统信息等)|[![](https://img.shields.io/github/stars/xxxsjan/cli-tool)](https://github.com/xxxsjan/cli-tool) |
+|[doo-cli](https://github.com/xxxsjan/doo-cli)|命令行小工具(删除node_modules 获取ip信息，获取目录结构、获取时间、获取系统信息等)|[![](https://img.shields.io/github/stars/xxxsjan/doo-cli)](https://github.com/xxxsjan/doo-cli) |
 |[douyin-danmu](https://github.com/xxxsjan/douyin-danmu)|抖音弹幕抓取，基于nodejs+puppeteer|[![](https://img.shields.io/github/stars/xxxsjan/douyin-danmu)](https://github.com/xxxsjan/douyin-danmu) |
 |[ultra-extension](https://github.com/xxxsjan/ultra-extension)|谷歌插件-含翻译功能，技术栈：plasmo+react+tailwindCss |[![](https://img.shields.io/github/stars/xxxsjan/ultra-extension)](https://github.com/xxxsjan/ultra-extension) |
 |[threejs-home](https://github.com/xxxsjan/threejs-home)|threejs |[![](https://img.shields.io/github/stars/xxxsjan/threejs-home)](https://github.com/xxxsjan/threejs-home) |
