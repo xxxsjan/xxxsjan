@@ -1,9 +1,12 @@
 # Hello 👋
-你好，我是一名前端开发，一起来搞技术吧！![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸++++++💥)
+你好，我是一名前端开发，一起来搞技术吧！
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸++++++💥)
 - 🐱 : [简书](https://www.jianshu.com/u/2b406a3be47b) 
 - 👻 : [个人文档库](https://dolam.top/) 
 
 <!-- 访问量 -->
+
 <a href="https://github.com/xxxsjan">
   <div align="right" >
     <img align="right" src="https://count.getloli.com/get/@:xxxsjan" alt="xxxsjan" />
@@ -12,6 +15,8 @@
 
 
 <!-- icon -->
+
+
 
 
 
@@ -28,6 +33,8 @@
 ![](https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron&logoColor=white&color=47848F) 
 ![](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js) 
 ![](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white) 
+
+
 
 ### GitHub status
 
