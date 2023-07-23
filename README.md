@@ -14,16 +14,17 @@
 </a>
 
 
-<!-- icon -->
 
-<picture>
+<!-- 贪吃蛇 -->
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 
-
+<!-- icon -->
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000) 
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&color=blue) 
 
