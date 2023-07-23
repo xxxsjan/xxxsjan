@@ -15,13 +15,7 @@
 
 
 
-<!-- 贪吃蛇 -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
-</picture>
--->
+
 
 
 <!-- icon -->
@@ -71,4 +65,10 @@
 |[ultra-extension](https://github.com/xxxsjan/ultra-extension)|谷歌插件-含翻译功能，技术栈：plasmo+react+tailwindCss |[![](https://img.shields.io/github/stars/xxxsjan/ultra-extension)](https://github.com/xxxsjan/ultra-extension) |
 |[threejs-home](https://github.com/xxxsjan/threejs-home)|threejs |[![](https://img.shields.io/github/stars/xxxsjan/threejs-home)](https://github.com/xxxsjan/threejs-home) |
 
+<!-- 贪吃蛇 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
+</picture>
 
