@@ -55,6 +55,7 @@
 
 | 仓库    | 介绍    |  start  |
 | ---- | ---- | ---- |
+|[realesrgan-demo](https://github.com/xxxsjan/realesrgan-demo.git)| RealESRGAN修复图片和视频 |[![](https://img.shields.io/github/stars/xxxsjan/realesrgan-demo)](https://github.com/xxxsjan/realesrgan-demo)|
 |[vue-ip-address-input](https://www.npmjs.com/package/vue-ip-address-input)| ip地址输入框组件 |[![](https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vue-ip-address-input) |
 | [taro-fresh-rabbit](https://github.com/xxxsjan/taro-fresh-rabbit)    | 小兔鲜多端开发之taro版    | [![](https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit)](https://github.com/xxxsjan/taro-fresh-rabbit)    |
 |[web-tool](https://github.com/xxxsjan/web-tool)|web工具箱网站--[在线地址](https://web-tool.dolam.top)|[![](https://img.shields.io/github/stars/xxxsjan/web-tool)](https://github.com/xxxsjan/web-tool)|
