@@ -46,7 +46,7 @@
 
 ### 一些项目
 
-| 仓库    | 介绍    |  start  |
+| 仓库    | 介绍    |  关注  |
 | ---- | ---- | ---- |
 |[realesrgan-demo](https://github.com/xxxsjan/realesrgan-demo.git)| RealESRGAN修复图片和视频 |[![](https://img.shields.io/github/stars/xxxsjan/realesrgan-demo)](https://github.com/xxxsjan/realesrgan-demo)|
 |[vue-ip-address-input](https://www.npmjs.com/package/vue-ip-address-input)| ip地址输入框组件 |[![](https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vue-ip-address-input) |
