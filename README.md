@@ -2,7 +2,9 @@
 你好，我是一名前端开发，一起来搞技术吧！
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸++++++💥)
-- 👻 : [前端文档](https://blog.dolam.fun/) 
+- 👻：[前端文档](https://blog.dolam.fun/)
+- 🀄：[简书主页](https://www.jianshu.com/u/2b406a3be47b)
+
 
 <!-- 访问量 -->
 
