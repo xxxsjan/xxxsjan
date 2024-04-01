@@ -16,14 +16,10 @@
 
 
 
-
-
-
 <!-- icon -->
-#### frontend
+#### stack
 ![skillicons](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nextjs,webpack#gh-dark-mode-only)
 
-#### backend
 ![skillicons](https://skillicons.dev/icons?i=nodejs,python,java,electron,threejs,docker#gh-dark-mode-only)
 
 
@@ -46,9 +42,9 @@
 |[douyin-danmu](https://github.com/xxxsjan/douyin-danmu)|抖音弹幕抓取，基于nodejs+puppeteer|[![](https://img.shields.io/github/stars/xxxsjan/douyin-danmu)](https://github.com/xxxsjan/douyin-danmu) |
 | [taro-fresh-rabbit](https://github.com/xxxsjan/taro-fresh-rabbit)    | 小兔鲜商城 taro    | [![](https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit)](https://github.com/xxxsjan/taro-fresh-rabbit)|
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&theme=github&height=250" />
 <!-- 贪吃蛇 -->
-<!-- <picture>
+<!--  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
