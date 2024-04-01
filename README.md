@@ -53,7 +53,7 @@
 |[vue-ip-address-input](https://www.npmjs.com/package/vue-ip-address-input)| ip地址输入框组件 |[![](https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm)](https://www.npmjs.com/package/vue-ip-address-input) |
 |[py-ncm-to-mp3](https://github.com/xxxsjan/py-ncm-to-mp3) |网易云ncm转mp3（python脚本）| [![](https://img.shields.io/github/stars/xxxsjan/py-ncm-to-mp3)](https://github.com/xxxsjan/py-ncm-to-mp3) |
 |[douyin-danmu](https://github.com/xxxsjan/douyin-danmu)|抖音弹幕抓取，基于nodejs+puppeteer|[![](https://img.shields.io/github/stars/xxxsjan/douyin-danmu)](https://github.com/xxxsjan/douyin-danmu) |
-| [taro-fresh-rabbit](https://github.com/xxxsjan/taro-fresh-rabbit)    | 小兔鲜多端开发之taro版    | [![](https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit)](https://github.com/xxxsjan/taro-fresh-rabbit)|
+| [taro-fresh-rabbit](https://github.com/xxxsjan/taro-fresh-rabbit)    | 小兔鲜商城 taro    | [![](https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit)](https://github.com/xxxsjan/taro-fresh-rabbit)|
 
 
 <!-- 贪吃蛇 -->
