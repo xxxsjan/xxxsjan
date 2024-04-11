@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">GitHub status</td>
+    <td colspan="2"><b>GitHub status</b></td>
   </tr>
   <tr>
     <td>
@@ -33,7 +33,7 @@
     </td>
   </tr>
  <tr>
-    <td colspan="2">一些项目</td>
+    <td colspan="2"><b>一些项目</b></td>
   </tr>
   <tr>
   <td colspan="2">
