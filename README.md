@@ -56,8 +56,6 @@
               <img src="https://img.shields.io/github/stars/xxxsjan/douyin-danmu" />
             </a>
         </li>
-
-        
         <li>
             <a target="_blank" href="https://github.com/xxxsjan/ultra-extension">ultra-extension</a>: 谷歌插件（翻译，文本复制，github1s跳转，跳过外站提示）
             <a target="_blank" href="https://github.com/xxxsjan/ultra-extension">
