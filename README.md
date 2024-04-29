@@ -32,39 +32,38 @@
       <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
     </td>
   </tr>
- <tr>
+  <tr>
     <td colspan="2"><b>一些项目</b></td>
   </tr>
   <tr>
-  <td colspan="2">
-    <table>
-      <thead>
-        <td>仓库</td>
-        <td>介绍</td>
-        <td></td>
-      </thead>
-      <tr>
-        <td>https://www.npmjs.com/package/vue-ip-address-input</td>
-        <td>ip地址输入框组件</td>
-        <td><img src="https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"/></td>
-      </tr>
-       <tr>
-        <td>https://github.com/xxxsjan/py-ncm-to-mp3</td>
-        <td>网易云ncm转mp3（python脚本）</td>
-        <td><img src="https://img.shields.io/github/stars/xxxsjan/py-ncm-to-mp3"/></td>
-      </tr>
-       <tr>
-        <td>https://github.com/xxxsjan/douyin-danmu</td>
-        <td>抖音弹幕抓取，基于nodejs+puppeteer</td>
-        <td><img src="https://img.shields.io/github/stars/xxxsjan/douyin-danmu"/></td>
-      </tr>
-        <tr>
-        <td>https://github.com/xxxsjan/taro-fresh-rabbit</td>
-        <td>小兔鲜商城 taro</td>
-        <td><img src="https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit"/></td>
-      </tr>
-    </table>
-  </td>
+    <td colspan="2">
+      <ul>
+        <li>
+            <a target="_blank"  href="https://www.npmjs.com/package/vue-ip-address-input">vue-ip-address-input</a>：ip地址输入框组件。
+            <a target="_blank" href="https://www.npmjs.com/package/vue-ip-address-input">
+              <img src="https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">py-ncm-to-mp3</a>: 网易云ncm转mp3（python）
+            <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">
+              <img src="https://img.shields.io/github/stars/xxxsjan/py-ncm-to-mp3" />
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://github.com/xxxsjan/douyin-danmu">douyin-danmu</a>:抖音弹幕抓取，基于nodejs+puppeteer
+            <a target="_blank" href="https://github.com/xxxsjan/douyin-danmu">
+              <img src="https://img.shields.io/github/stars/xxxsjan/douyin-danmu" />
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://github.com/xxxsjan/taro-fresh-rabbit">taro-fresh-rabbit</a>: 小兔鲜商城 (taro)
+            <a target="_blank" href="https://github.com/xxxsjan/taro-fresh-rabbit">
+              <img src="https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit" />
+            </a>
+        </li>
+      </ul>
+    </td>
   </tr>
 
   <tr>
