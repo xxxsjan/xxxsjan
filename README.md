@@ -58,15 +58,9 @@
         </li>
         <li>
             <a target="_blank" href="https://github.com/xxxsjan/ultra-extension">ultra-extension</a>: 谷歌插件（翻译，文本复制，github1s跳转，跳过外站提示）
-            <a target="_blank" href="https://github.com/xxxsjan/ultra-extension">
-              <img src="https://img.shields.io/github/stars/xxxsjan/ultra-extension" />
-            </a>
         </li>
         <li>
             <a target="_blank" href="https://github.com/xxxsjan/taro-fresh-rabbit">taro-fresh-rabbit</a>: 小兔鲜商城 (taro)
-            <a target="_blank" href="https://github.com/xxxsjan/taro-fresh-rabbit">
-              <img src="https://img.shields.io/github/stars/xxxsjan/taro-fresh-rabbit" />
-            </a>
         </li>
       </ul>
     </td>
