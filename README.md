@@ -8,7 +8,7 @@
     <td>
       <ul>
         <li>
-          <a target="_blank" href="https://blog.dolam.fun">📖：前端文档</a>
+          <a target="_blank" href="https://dolam.fun">📖：主站地址</a>
         </li>
          <li>
           <a target="_blank" href="https://www.jianshu.com/u/2b406a3be47b">📚：简书主页</a>
