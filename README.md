@@ -52,6 +52,12 @@
         <li>
             <a target="_blank" href="https://github.com/xxxsjan/ultra-extension">ultra-extension</a>: 谷歌插件（翻译，文本复制，github1s跳转，跳过外站提示）
         </li>
+         <li>
+            <a target="_blank"  href="https://www.npmjs.com/package/gitcheck-cli">gitcheck-cli</a>：github项目提交分析工具。
+            <a target="_blank" href="https://www.npmjs.com/package/gitcheck-cli">
+              <img src="https://img.shields.io/npm/dt/gitcheck-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
+            </a>
+        </li>
 <!--         <li>
             <a target="_blank" href="https://github.com/xxxsjan/taro-fresh-rabbit">taro-fresh-rabbit</a>: 小兔鲜商城 (taro)
         </li> -->
