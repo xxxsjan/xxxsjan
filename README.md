@@ -37,30 +37,27 @@
   <tr>
     <td colspan="2">
       <ul>
-        <li>
-            <a target="_blank"  href="https://www.npmjs.com/package/vue-ip-address-input">vue-ip-address-input</a>：ip地址输入框组件。
-            <a target="_blank" href="https://www.npmjs.com/package/vue-ip-address-input">
-              <img src="https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
-            </a>
-        </li>
-<!--         <li>
-            <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">py-ncm-to-mp3</a>: 网易云ncm转mp3（python）
-            <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">
-              <img src="https://img.shields.io/github/stars/xxxsjan/py-ncm-to-mp3" />
-            </a>
-        </li> -->
-        <li>
-            <a target="_blank" href="https://github.com/xxxsjan/ultra-extension">ultra-extension</a>: 谷歌插件（翻译，文本复制，github1s跳转，跳过外站提示）
-        </li>
          <li>
             <a target="_blank"  href="https://www.npmjs.com/package/gitcheck-cli">gitcheck-cli</a>：github项目提交分析工具。
             <a target="_blank" href="https://www.npmjs.com/package/gitcheck-cli">
               <img src="https://img.shields.io/npm/dt/gitcheck-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
             </a>
         </li>
-<!--         <li>
-            <a target="_blank" href="https://github.com/xxxsjan/taro-fresh-rabbit">taro-fresh-rabbit</a>: 小兔鲜商城 (taro)
-        </li> -->
+        <li>
+            <a target="_blank"  href="https://www.npmjs.com/package/vue-ip-address-input">vue-ip-address-input</a>：ip地址输入框组件。
+            <a target="_blank" href="https://www.npmjs.com/package/vue-ip-address-input">
+              <img src="https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">py-ncm-to-mp3</a>: 网易云ncm转mp3（python）
+            <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">
+              <img src="https://img.shields.io/github/stars/xxxsjan/py-ncm-to-mp3" />
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://github.com/xxxsjan/ultra-extension">ultra-extension</a>: 谷歌插件（翻译，文本复制，github1s跳转，跳过外站提示）
+        </li>
       </ul>
     </td>
   </tr>
