@@ -44,12 +44,7 @@
               <img src="https://img.shields.io/npm/dt/gitcheck-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
             </a>
         </li>
-        <li>
-            <a target="_blank"  href="https://www.npmjs.com/package/vue-ip-address-input">vue-ip-address-input</a>：ip地址输入框组件。
-            <a target="_blank" href="https://www.npmjs.com/package/vue-ip-address-input">
-              <img src="https://img.shields.io/npm/dt/vue-ip-address-input?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
-            </a>
-        </li>
+        
         <li>
             <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">py-ncm-to-mp3</a>: 网易云ncm转mp3（python）
             <a target="_blank" href="https://github.com/xxxsjan/py-ncm-to-mp3">
