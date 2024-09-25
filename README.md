@@ -8,7 +8,7 @@
     <td>
       <ul>
         <li>
-          <a target="_blank" href="http://dolam.fun">📖：主站地址</a>
+          <a target="_blank" href="http://dolam.fun">📖：主站地址<img src="https://visitor-badge.laobi.icu/badge?page_id=dolam.fun"></a>
 <!--           <a target="_blank" href="https://home-site-nu.vercel.app/">📖：主站地址</a> -->
         </li>
          <!-- <li>
