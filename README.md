@@ -1,4 +1,4 @@
-# Hello 👋 <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸++++++💥"/>
+# 👋Hello 👉 <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=再多看一眼就会爆炸++++++💥"/>
 
 <!-- 你好，我是一名前端开发，一起来搞技术吧！ -->
 
@@ -59,13 +59,14 @@
 
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&theme=github&height=250" />
+      <!-- https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&theme=high-contrast&height=250" />
       <!-- 贪吃蛇 -->
-      <!--  <picture>
+       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
-      </picture> -->
+      </picture>
     </td>
   </tr>
 </table>
