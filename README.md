@@ -8,8 +8,9 @@
     <td>
       <ul>
         <li>
-          <a target="_blank" href="http://dolam.fun">📖：Home</a>
-<!--           <a target="_blank" href="https://home-site-nu.vercel.app/">📖：主站地址</a> -->
+          <a target="_blank" href="http://dolam.fun">🏠：Home</a>
+          <a target="_blank" href="http://blog.dolam.fun">📖：Blog</a>
+
         </li>
          <!-- <li>
          <a target="_blank" href="https://www.jianshu.com/u/2b406a3be47b">📚：简书主页</a>
