@@ -60,7 +60,7 @@
   <tr>
     <td colspan="2">
       <!-- https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&theme=high-contrast&height=250" />
+<!--       <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&theme=high-contrast&height=250" /> -->
       <!-- 贪吃蛇 -->
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
