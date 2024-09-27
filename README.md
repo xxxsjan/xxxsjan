@@ -8,7 +8,7 @@
     <td>
       <ul>
         <li>
-          <a target="_blank" href="https://www.dolam.fun">🏠：Home</a>
+          <a target="_blank" href="https://home.dolam.fun">🏠：Home</a>
         </li>
          <li>
           <a target="_blank" href="https://blog.dolam.fun">📖：Blog</a>
