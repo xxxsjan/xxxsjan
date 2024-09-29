@@ -26,10 +26,11 @@
   <tr>
     <td>
      <!-- https://github.com/anuraghazra/github-readme-stats &bg_color=0,EC6C6C,FFD479,FFFC79,73FA79  &bg_color=0,73FA79,73FDFF,D783FF--> 
-      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xxxsjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=defaul&locale=cn" />
+     <!--       https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xxxsjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark&locale=cn" />
     </td>
     <td>
-      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&hide_title=true&hide_border=true&layout=compact&theme=dark&locale=cn" />
     </td>
   </tr>
   <tr>
