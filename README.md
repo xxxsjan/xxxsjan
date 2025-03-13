@@ -25,12 +25,11 @@
   </tr>
   <tr>
     <td>
-     <!-- https://github.com/anuraghazra/github-readme-stats &bg_color=0,EC6C6C,FFD479,FFFC79,73FA79  &bg_color=0,73FA79,73FDFF,D783FF--> 
-     <!--       https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xxxsjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=dark&locale=cn" />
+     <!--文档： https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xxxsjan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=transparent&locale=cn&rank_icon=github" />
     </td>
     <td>
-      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&hide_title=true&hide_border=true&layout=compact&theme=dark&locale=cn" />
+      <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&hide_title=true&hide_border=true&layout=compact&theme=transparent&locale=cn" />
     </td>
   </tr>
   <tr>
@@ -57,12 +56,12 @@
 
   <tr>
     <td colspan="2">
-      <!-- 贪吃蛇 -->
-   <picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" />
+<!--    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
-      </picture> 
+      </picture>  -->
     </td>
   </tr>
 </table>
