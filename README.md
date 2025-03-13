@@ -56,7 +56,7 @@
 
   <tr>
     <td colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&bg_color=F6F8FA&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=250" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxxsjan&bg_color=ffffff&color=708090&line=2982FF&point=41B883&area=true&hide_border=true&height=250" />
 <!--    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xxxsjan/xxxsjan/output/github-contribution-grid-snake.svg">
