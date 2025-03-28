@@ -39,9 +39,9 @@
     <td colspan="2">
       <ul>
          <li>
-            <a target="_blank"  href="https://www.npmjs.com/package/gitpromax">gitpromax</a>：git命令行工具。
+            <a target="_blank"  href="https://www.npmjs.com/package/gitcheck-cli">gitcheck-cli</a>：git命令行工具。
             <a target="_blank" href="https://www.npmjs.com/package/gitcheck-cli">
-              <img src="https://img.shields.io/npm/dt/gitpromax?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
+              <img src="https://img.shields.io/npm/dt/gitcheck-cli?style=flat&label=downloads&color=cb3837&labelColor=cb0000&logo=npm"  alt="npm downloads" />
             </a>
         </li>     
         <li>
