@@ -8,10 +8,10 @@
     <td>
       <ul>
         <li>
-          <a target="_blank" href="https://home.odep.xyz">🏠：Home</a>
+          <a target="_blank" href="https://home.odep.shop">🏠：Home</a>
         </li>
          <li>
-          <a target="_blank" href="https://blog.odep.xyz">📖：Blog</a>
+          <a target="_blank" href="https://blog.odep.shop">📖：Blog</a>
         </li>
       </ul>
     </td>
