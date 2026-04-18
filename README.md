@@ -32,7 +32,7 @@
       <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxsjan&hide_title=true&hide_border=true&layout=compact&theme=transparent&locale=cn" />
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td colspan="2"><b>一些项目</b></td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@
         </li>
       </ul>
     </td>
-  </tr>
+  </tr>  -->
 
   <tr>
     <td colspan="2">
