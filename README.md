@@ -11,7 +11,7 @@
           <a target="_blank" href="https://home.odep.shop">🏠：Home</a>
         </li>
          <li>
-          <a target="_blank" href="https://blog.odep.shop">📖：Blog</a>
+          <a target="_blank" href="https://blog.odep.shop">📖：Blog</a><img class="visitor" src="https://visitor-badge.laobi.icu/badge?page_id=https://blog.odep.xyz" onerror="this.style.display='none'">
         </li>
       </ul>
     </td>
