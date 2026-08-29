@@ -6,8 +6,8 @@
 
 <br />
 
-[![Home](https://img.shields.io/badge/Home-home.odep.shop-2B7A78?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://home.odep.shop)
-[![Blog](https://img.shields.io/badge/Blog-blog.odep.shop-17252A?style=for-the-badge\&logo=hashnode\&logoColor=white)](https://blog.odep.shop)
+[![](https://img.shields.io/badge/-主页-fff?style=social&logo=googlechrome&logoColor=2B7A78)](https://home.odep.shop)
+[![](https://img.shields.io/badge/-博客-fff?style=social&logo=rss&logoColor=17252A)](https://blog.odep.shop)
 
 <img src="https://count.getloli.com/get/@:xxxsjan" alt="visitor count" height="48" />
 
