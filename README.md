@@ -2,14 +2,19 @@
 
 # xxxsjan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B7A78&center=true&vCenter=true&width=520&height=28&lines=%E5%86%8D%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%B0%B1%E4%BC%9A%E7%88%86%E7%82%B8++++++%F0%9F%92%A5;%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E4%B8%80%E8%B5%B7%E6%90%9E%E6%8A%80%E6%9C%AF%E5%90%A7" alt="typing" />
-
-<br />
-
-[![](https://img.shields.io/badge/-主页-fff?style=social&logo=googlechrome&logoColor=2B7A78)](https://home.odep.shop)
-[![](https://img.shields.io/badge/-博客-fff?style=social&logo=rss&logoColor=17252A)](https://blog.odep.shop)
-
-<img src="https://count.getloli.com/get/@:xxxsjan" alt="visitor count" height="48" />
+<table>
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B7A78&center=false&vCenter=true&width=420&height=28&lines=%E5%86%8D%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E5%B0%B1%E4%BC%9A%E7%88%86%E7%82%B8++++++%F0%9F%92%A5;%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%20%C2%B7%20%E4%B8%80%E8%B5%B7%E6%90%9E%E6%8A%80%E6%9C%AF%E5%90%A7" alt="typing" />
+      <br />
+      <a href="https://home.odep.shop"><img src="https://img.shields.io/badge/-主页-fff?style=social&logo=googlechrome&logoColor=2B7A78" alt="主页" /></a>
+      <a href="https://blog.odep.shop"><img src="https://img.shields.io/badge/-博客-fff?style=social&logo=rss&logoColor=17252A" alt="博客" /></a>
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://count.getloli.com/get/@:xxxsjan" alt="visitor count" height="60" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
