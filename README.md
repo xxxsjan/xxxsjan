@@ -16,9 +16,6 @@
   </tr>
 </table>
 
-</div>
-
-***
 
 ### GitHub Status
 
